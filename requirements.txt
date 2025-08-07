@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+gunicorn
+psycopg[binary]
+ipykernel
+dotenv
+requests
+pandas
+numpy
+psycopg2
+tqdm
+pytest
+myservice
