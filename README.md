@@ -1,4 +1,4 @@
-```markdown
+
 # Corteva Weather Data Analysis
 
 A comprehensive data engineering solution for ingesting, analyzing, and serving weather data through a REST API. This project demonstrates data modeling, ETL processes, statistical analysis, and API development using Python, PostgreSQL, and Flask with SQLAlchemy.
@@ -321,4 +321,3 @@ flask db upgrade
 ## License
 
 This project is part of a coding exercise for Corteva.
-```
